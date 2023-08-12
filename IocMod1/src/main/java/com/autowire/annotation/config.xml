@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:p="http://www.springframework.org/schema/p"
+       
+       xsi:schemaLocation="http://www.springframework.org/schema/beans 
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context 
+       http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <!-- Bean definitions -->
+
+    <context:annotation-config/>
+    
+    <bean class="com.autowire.annotation.Apps" name="app1" p:whatsapp="murali" p:memory="1.2" p:cost="200"/>
+    <bean class="com.autowire.annotation.Apps" name="app2" p:whatsapp="sudhi" p:memory="2.2" p:cost="400"/>
+	
+	<bean class="com.autowire.annotation.Mobile" name ="mob" />    
+    
+</beans>

@@ -1,0 +1,5 @@
+package com.JdbcTemplate.springJdbc;
+
+public class Student {
+
+}

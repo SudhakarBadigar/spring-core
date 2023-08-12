@@ -1,0 +1,48 @@
+package com.stereotype;
+
+public class SpelIpl {
+	private String teamCaptain;
+	private String teamName;
+	private String players;
+	
+	public SpelIpl() {
+		super();
+	}
+
+	public SpelIpl(String teamCaptain, String teamName, String players) {
+		super();
+		this.teamCaptain = teamCaptain;
+		this.teamName = teamName;
+		this.players = players;
+	}
+
+	@Override
+	public String toString() {
+		return "SpelIpl [teamCaptain=" + teamCaptain + ", teamName=" + teamName + ", players=" + players + "]";
+	}
+
+	public String getTeamCaptain() {
+		return teamCaptain;
+	}
+
+	public void setTeamCaptain(String teamCaptain) {
+		this.teamCaptain = teamCaptain;
+	}
+
+	public String getTeamName() {
+		return teamName;
+	}
+
+	public void setTeamName(String teamName) {
+		this.teamName = teamName;
+	}
+
+	public String getPlayers() {
+		return players;
+	}
+
+	public void setPlayers(String players) {
+		this.players = players;
+	}
+	
+}

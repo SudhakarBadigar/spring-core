@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:p="http://www.springframework.org/schema/p"  
+
+       xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/beans/spring-beans.context">
+ 
+ <bean class="com.Spring.collection.Emp" name="Empcollection">
+ <property name="vehicle">
+ <list>
+	 <value>BMW</value>
+	 <value>Audi</value>
+	 <value>Toyato</value> 
+	 <value>Tata</value>
+	 <value>mahindra</value>
+	 <value>Tata</value>
+	 <value>mahindra</value>
+ </list>
+ </property>
+ 
+ <property name="email">
+ <set>
+	 <value>Bmw@gmail.com</value>
+	 <value>Audi@gmail.com</value>
+	 <value>Mahindra@gmail.com</value>
+	 <value>Tata@gmail.com</value>
+	 <value>Toyoto@gmail.com</value>
+ </set>
+ </property>
+ 
+<property name="name">
+<map>
+	<entry key="Maha" value="Vishnu"/>
+	<entry key="Rama" value="Hanumantha"/>
+	<entry key="Krishna" value="Arjuna"/>
+	<entry key="Narayana" value="Nara"/>
+	<entry key="Shiva" value="venkatesha"/>
+</map>
+</property>
+ 
+ </bean>
+ </beans>

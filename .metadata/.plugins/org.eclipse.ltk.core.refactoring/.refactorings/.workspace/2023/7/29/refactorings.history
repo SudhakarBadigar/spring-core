@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;IocMod1/src/main/java/com/springCore/IocMod1/config1.xml&apos;" deleteContents="false" description="Delete resource &apos;IocMod1/src/main/java/com/springCore/IocMod1/config1.xml&apos;" element1="/IocMod1/src/main/java/com/springCore/IocMod1/config1.xml" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1690020349198"/>
+</session>

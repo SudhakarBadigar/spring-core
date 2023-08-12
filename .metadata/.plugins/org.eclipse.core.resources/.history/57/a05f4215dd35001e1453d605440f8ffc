@@ -1,0 +1,52 @@
+package com.withoutUsingXml;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.stereotype.Component;
+
+@Component
+@ComponentScan(basePackages = "com.withoutUsingXml")
+public class Pizza {
+	
+	@Value("Margarette")
+	private String pizzaName;
+	@Value("499.49")
+	private double pizzaPrice;
+	
+	void delivery(){
+		System.out.println("Deliver the pizza");
+		
+	}
+
+	public Pizza() {
+		super();
+	}
+
+	public Pizza(String pizzaName, double pizzaPrice) {
+		super();
+		this.pizzaName = pizzaName;
+		this.pizzaPrice = pizzaPrice;
+	}
+
+	public String getPizzaName() {
+		return pizzaName;
+	}
+
+	public void setPizzaName(String pizzaName) {
+		this.pizzaName = pizzaName;
+	}
+
+	public double getPizzaPrice() {
+		return pizzaPrice;
+	}
+
+	public void setPizzaPrice(double pizzaPrice) {
+		this.pizzaPrice = pizzaPrice;
+	}
+
+	@Override
+	public String toString() {
+		return "Pizza [pizzaName=" + pizzaName + ", pizzaPrice=" + pizzaPrice + "]";
+	}
+	
+}

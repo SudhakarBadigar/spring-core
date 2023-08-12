@@ -1,0 +1,5 @@
+package com.scopeOfBean;
+
+public class Singleton {
+
+}

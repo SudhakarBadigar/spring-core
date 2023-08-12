@@ -1,0 +1,23 @@
+package com.Dao;
+
+import org.springframework.jdbc.core.JdbcTemplate;
+
+import com.entity.Student;
+
+public class StudentDaoImpl implements StudentDao {
+
+	private JdbcTemplate jdbctemplate;
+	@Override
+	public int insert(Student student) {
+       String inquery="insert into springjdbc.student values(?,?,?)";
+       int b = jdbctemplate.update(inquery,student.getUsn(),student.getName(),student.getCity());
+		System.out.println("record inserted.." +b);
+		return b;
+	}
+	public JdbcTemplate getJdbctemplate() {
+		return jdbctemplate;
+	}
+	public void setJdbctemplate1(JdbcTemplate jdbctemplate) {
+		this.jdbctemplate = jdbctemplate;
+	}
+}

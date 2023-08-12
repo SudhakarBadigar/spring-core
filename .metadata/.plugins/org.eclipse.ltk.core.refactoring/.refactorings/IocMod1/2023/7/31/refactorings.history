@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.beansLifeCycle&apos; to &apos;com.beansLifeCycle.usingXml&apos;&#x0D;&#x0A;- Original project: &apos;IocMod1&apos;&#x0D;&#x0A;- Original element: &apos;IocMod1/src/main/java/com.beansLifeCycle&apos;&#x0D;&#x0A;- Renamed element: &apos;IocMod1/src/main/java/com.beansLifeCycle.usingXml&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.beansLifeCycle&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.beansLifeCycle" name="com.beansLifeCycle.usingXml" qualified="false" references="true" stamp="1690804823627" textual="false" version="1.0"/>
+</session>
