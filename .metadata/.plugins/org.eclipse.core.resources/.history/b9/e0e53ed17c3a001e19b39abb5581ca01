@@ -1,0 +1,5 @@
+package com.DesignPattern.insert.copy;
+
+public class Student {
+
+}

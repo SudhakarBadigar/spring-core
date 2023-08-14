@@ -28,6 +28,6 @@
       		</property>
       </bean>       
        
-	  <bean class="com.entity.Student" name="s" p:usn="1dao8mca34" p:name="srinivasa" p:city="tirupathi"/>
+	  <bean class="com.entity.Student" name="s" p:usn="1dao8mca32" p:name="parear" p:city="chennai"/>
        
 </beans>
