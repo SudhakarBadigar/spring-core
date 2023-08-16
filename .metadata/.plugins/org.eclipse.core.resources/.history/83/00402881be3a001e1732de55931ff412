@@ -1,0 +1,11 @@
+package com.crudOperations;
+
+import org.springframework.jdbc.datasource.DriverManagerDataSource;
+
+public class AppDelete {
+	
+	public static void main(String[] args) {
+		//DriverManagerDataSource
+	}
+
+}

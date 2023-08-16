@@ -1,0 +1,23 @@
+package com.FetchSingleRow;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.jdbc.core.JdbcTemplate;
+
+@Configuration
+public class AnnotationSingleFetch {
+	
+	@Bean("jdbcTemplate")
+	public JdbcTemplate getjdbctemplate() {
+		JdbcTemplate jdbcTemplate = new JdbcTemplate();
+		return jdbcTemplate;
+	}
+	
+	@Bean("sinfetch")
+	public StudentDao getstudent() {
+		StudentDaoImpl studentDaoImpl = new StudentDaoImpl();
+		studentDaoImpl.getJdbctemplatefetchS();
+		return studentDaoImpl;
+	}
+
+}

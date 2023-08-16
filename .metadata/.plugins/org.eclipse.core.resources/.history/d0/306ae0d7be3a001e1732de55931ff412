@@ -1,0 +1,15 @@
+package com.crudOperations;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+import org.springframework.jdbc.datasource.DriverManagerDataSource;
+
+public class AppDelete {
+	
+	public static void main(String[] args) {
+		//DriverManagerDataSource
+		
+		ApplicationContext context = new ClassPathXmlApplicationContext("com/crudOperations/deleteJdbcConfig.xml");
+	}
+
+}

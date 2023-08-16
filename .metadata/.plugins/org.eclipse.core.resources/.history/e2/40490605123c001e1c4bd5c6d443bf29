@@ -1,0 +1,28 @@
+package com.FetchMultipleRow;
+
+import java.util.List;
+
+import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.jdbc.core.RowMapper;
+
+public class StudentDaoImpl implements StudentDao{
+
+	private JdbcTemplate jdbctemplateFM;
+	@Override
+	public List<Student> getstudent() {
+		String sql="select * from springjdbc.student";
+		RowMapper r = new RowMapperImpl();
+		Student p = this.jdbctemplateFM.query(sql, r);
+
+		return p;
+	}
+	public JdbcTemplate getJdbctemplateFM() {
+		return jdbctemplateFM;
+	}
+	public void setJdbctemplateFM(JdbcTemplate jdbctemplateFM) {
+		this.jdbctemplateFM = jdbctemplateFM;
+	}
+	
+	
+
+}

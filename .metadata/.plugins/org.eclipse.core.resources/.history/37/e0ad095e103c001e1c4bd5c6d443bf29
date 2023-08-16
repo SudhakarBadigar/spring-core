@@ -1,0 +1,20 @@
+package com.FetchMultipleRow;
+
+import java.util.List;
+
+import org.springframework.jdbc.core.JdbcTemplate;
+
+public class StudentDaoImpl implements StudentDao{
+
+	private JdbcTemplate jdbctemplateFM;
+	@Override
+	public List<Student> getstudent() {
+
+		
+		
+		
+		
+		return null;
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.FetchMultipleRow;
+
+public interface StudentDao {
+
+}

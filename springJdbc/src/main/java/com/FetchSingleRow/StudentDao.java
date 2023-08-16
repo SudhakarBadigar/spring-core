@@ -1,0 +1,9 @@
+package com.FetchSingleRow;
+
+public interface StudentDao {
+	//specific details of one student hence here i am using usn not student object. 
+	public Student getstudent(String usn);
+
+	
+
+}
