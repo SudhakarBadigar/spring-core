@@ -1,5 +1,7 @@
 package com.HibernateTemplate;
 
+import java.util.*;
+
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
@@ -29,13 +31,23 @@ public class App
     	System.out.println(".......................");
     	
     	Student student = new Student();
-    	student.setStudentUsn(632638);
-    	student.setStudentName("krishna");
-    	student.setStudentCity("mathura");
+    	student.setStudentUsn(632641);
+    	student.setStudentName("mohana");
+    	student.setStudentCity("Bellary");
     	
     	bean.insertStudent(student);
-    	
     	System.out.println(student);
+    	System.out.println("..................");
+
+    	Student getstudent = bean.getstudent(632639);
+    	System.out.println(getstudent);
+    	System.out.println(".............");
+    	
+    	List<Student> allStudent = bean.getAllStudent();
+    	for(Student a:allStudent) {
+    		System.out.println(a);
+    	}
+    	 
     	
     	System.out.println("end");
     }

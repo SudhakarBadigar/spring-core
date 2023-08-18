@@ -1,5 +1,7 @@
 package com.Dao;
 
+import java.util.List;
+
 import org.springframework.orm.hibernate5.HibernateTemplate;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -16,6 +18,20 @@ public class StudentDao {
 		 return i;
 	
 	}
+    
+    //fetching single data
+    public Student getstudent( int studentUsn) {
+    	Student s = hibernateTemplate.get(Student.class, studentUsn);
+    	return s;
+    }
+    
+    //fetching multiple records
+    
+    public List<Student> getAllStudent(){
+    	List<Student> loadAll = (List<Student>) hibernateTemplate.loadAll(Student.class);
+		return (List<Student>) loadAll;
+    	
+    }
 
 	public HibernateTemplate getHibernateTemplate() {
 		return hibernateTemplate;
