@@ -3,12 +3,13 @@
     <fullyQualifiedTypeName name="com.Dao.StudentUpdateDaoImpl"/>
     <fullyQualifiedTypeName name="javax.sql.DataSource"/>
     <fullyQualifiedTypeName name="com.Dao.StudentUpdateDao"/>
-    <fullyQualifiedTypeName name="com.entity.Student"/>
     <fullyQualifiedTypeName name="com.Dao.StudentDeleteDao"/>
     <fullyQualifiedTypeName name="org.springframework.jdbc.core.JdbcTemplate"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="org.springframework.jdbc.datasource.DriverManagerDataSource"/>
     <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="com.Dao.StudentDeleteDaoImpl"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.entity.Student"/>
+    <fullyQualifiedTypeName name="org.springframework.orm.hibernate5.HibernateTemplate"/>
 </qualifiedTypeNameHistroy>
