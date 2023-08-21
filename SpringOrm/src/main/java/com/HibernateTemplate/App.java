@@ -29,19 +29,21 @@ public class App
     	StudentDao bean = context.getBean("studentdao", StudentDao.class);
     	System.out.println(bean);
     	System.out.println(".......................");
-    	
+    	System.out.println("inserting one record");
     	Student student = new Student();
-    	student.setStudentUsn(632641);
-    	student.setStudentName("mohana");
-    	student.setStudentCity("Bellary");
+    	student.setStudentUsn(632642);
+    	student.setStudentName("vamana");
+    	student.setStudentCity("kerala");
     	
     	bean.insertStudent(student);
     	System.out.println(student);
     	System.out.println("..................");
 
+    	System.out.println("Fetching Single data");
     	Student getstudent = bean.getstudent(632639);
     	System.out.println(getstudent);
     	System.out.println(".............");
+    	System.out.println("Feching Multiple data");
     	
     	List<Student> allStudent = bean.getAllStudent();
     	for(Student a:allStudent) {
