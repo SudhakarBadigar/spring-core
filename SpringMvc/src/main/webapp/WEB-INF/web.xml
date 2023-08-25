@@ -13,7 +13,8 @@
 
 <servlet-mapping>
 	<servlet-name>SpringRama</servlet-name>
-	<url-pattern>/</url-pattern>
+	<url-pattern>/</url-pattern> 
+	<!-- <url-pattern>/info</url-pattern> -->
 </servlet-mapping>
 
 

@@ -21,6 +21,13 @@ public class HomeController {
 		
 	}
 	
+	@RequestMapping("/info")
+ public String info(){
+		System.out.println("index3 html page");
+	 return "index3";
+		
+	}
+	
 	
 
 }
