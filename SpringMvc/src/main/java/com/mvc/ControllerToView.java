@@ -14,6 +14,7 @@ public class ControllerToView {
 	public String front(Model model){
 		model.addAttribute("name","RamaKrishna");
 		model.addAttribute("id", 11);
+		model.addAttribute("salary", 100000);
 		
 		List<String> friend=new ArrayList<String>();
 		friend.add("Rama");
