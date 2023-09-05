@@ -1,3 +1,4 @@
+<%@page isELIgnored="false" %>
 <!doctype html>
 <html lang="en">
   <head>
@@ -12,6 +13,11 @@
   </head>
   <body>
   <div class="container mt-5" >
+  
+  <div style="color: red; text-align:center;">
+  	<h1>${Heading}</h1> 
+  	<p>${para}</p>
+</div>
    
     <form action="process" method="post">
     <h1 style="text-align:center;">Welcome to signup page</h1>
