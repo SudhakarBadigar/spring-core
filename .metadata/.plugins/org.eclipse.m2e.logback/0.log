@@ -4605,3 +4605,344 @@
 2023-09-05 18:04:38,601 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\SpringMvc\src\test\resources
 2023-09-05 18:36:41,848 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2023-09-07 15:01:50,916 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-09-07 16:45:27,881 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [610])
+2023-09-07 16:45:28,162 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2023-09-07 16:45:28,163 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2023-09-07 16:45:28,164 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2023-09-07 16:45:28,164 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2023-09-07 16:45:28,164 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2023-09-07 16:45:28,164 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2023-09-07 16:45:28,165 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2023-09-07 16:45:28,187 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2023-09-07 16:45:28,187 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2023-09-07 16:45:28,187 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2023-09-07 16:45:28,187 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2023-09-07 16:45:28,188 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2023-09-07 16:45:28,188 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2023-09-07 16:45:28,188 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2023-09-07 16:45:28,188 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2023-09-07 16:45:28,189 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-09-07 16:45:28,189 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2023-09-07 16:45:28,189 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2023-09-07 16:45:28,189 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2023-09-07 16:45:28,190 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-09-07 16:45:28,190 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2023-09-07 16:45:28,190 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2023-09-07 16:45:28,190 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2023-09-07 16:45:28,191 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2023-09-07 16:45:28,191 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2023-09-07 16:45:28,191 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2023-09-07 16:45:28,191 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-09-07 16:45:28,192 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-09-07 16:45:28,192 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2023-09-07 16:45:28,192 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2023-09-07 16:45:28,192 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2023-09-07 16:45:28,193 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2023-09-07 16:45:28,193 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2023-09-07 16:45:28,193 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2023-09-07 16:45:28,193 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2023-09-07 16:45:28,193 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2023-09-07 16:45:28,194 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2023-09-07 16:45:28,198 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [11])
+2023-09-07 16:45:28,217 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\com.google.guava_31.1.0.jre.jar
+2023-09-07 16:45:28,217 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [924])
+2023-09-07 16:45:28,218 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\slf4j.api_1.7.36.jar
+2023-09-07 16:45:28,219 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [35])
+2023-09-07 16:45:28,221 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-09-07 16:45:28,222 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [33])
+2023-09-07 16:45:28,252 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2023-09-07 16:45:28,252 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [67])
+2023-09-07 16:45:28,281 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2023-09-07 16:45:28,282 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [13])
+2023-09-07 16:45:28,299 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: D:\important softwares\Eclipse j2ee\eclipse\plugins\com.google.guava.failureaccess_1.0.1.jar
+2023-09-07 16:45:28,581 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\DELL\AppData\Local\Temp\m2e-archetypeGenerator6300919191911040788":
+2023-09-07 16:45:28,584 [Worker-26: Launching mavenrun-a3d66be5-7aa1-4ad4-bd2f-b8c3fa14d32e] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.4 -DgroupId=com.VCD -DartifactId=miniProject -Dversion=0.0.1-SNAPSHOT -Dpackage=com.VCD.miniProject -DoutputDirectory="D:\java Workspace\SpringWorkSpace" -Dstyle.color=always -U archetype:generate
+2023-09-07 16:46:23,853 [Worker-24: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\java Workspace\SpringWorkSpace\miniProject\pom.xml
+2023-09-07 16:46:36,416 [Worker-24: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.VCD:miniProject:0.0.1-SNAPSHOT @ D:\java Workspace\SpringWorkSpace\miniProject\pom.xml.
+2023-09-07 16:46:46,689 [Worker-24: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /miniProject/src/main/java
+2023-09-07 16:46:46,690 [Worker-24: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /miniProject/src/test/java
+2023-09-07 16:46:50,523 [Worker-24: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 26 sec
+2023-09-07 16:46:52,256 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 16:46:52,257 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 16:46:52,264 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 16:46:52,265 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 16:47:36,874 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 16:47:36,874 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 16:47:36,882 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 16:47:36,882 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 16:49:36,372 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.VCD:miniProject:0.0.1-SNAPSHOT @ D:\java Workspace\SpringWorkSpace\miniProject\pom.xml.
+2023-09-07 16:49:37,794 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 16:49:37,794 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 16:49:37,801 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 16:49:37,801 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 16:49:37,802 [Worker-26: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of miniProject
+2023-09-07 16:49:37,817 [Worker-26: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for miniProject
+2023-09-07 16:50:56,745 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.VCD:miniProject:0.0.1-SNAPSHOT @ D:\java Workspace\SpringWorkSpace\miniProject\pom.xml.
+2023-09-07 16:51:01,375 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 16:51:01,376 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 16:51:01,383 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 16:51:01,384 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 16:51:01,386 [Worker-28: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of miniProject
+2023-09-07 16:51:01,387 [Worker-28: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for miniProject
+2023-09-07 16:51:21,056 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.VCD:miniProject:0.0.1-SNAPSHOT @ D:\java Workspace\SpringWorkSpace\miniProject\pom.xml.
+2023-09-07 16:51:22,370 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 16:51:22,371 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 16:51:22,379 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 16:51:22,380 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 16:51:22,381 [Worker-24: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of miniProject
+2023-09-07 16:51:22,381 [Worker-24: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for miniProject
+2023-09-07 16:55:53,371 [Worker-24: Launching mavenrun-5a720bb8-b170-40a6-afa2-623ecc0f87bb] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\DELL\AppData\Local\Temp\m2e-archetypeGenerator3032358366536663799":
+2023-09-07 16:55:53,371 [Worker-24: Launching mavenrun-5a720bb8-b170-40a6-afa2-623ecc0f87bb] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.4 -DgroupId=com.VCD -DartifactId=viewDataProject -Dversion=0.0.1-SNAPSHOT -Dpackage=com.VCD.viewDataProject -DoutputDirectory="D:\java Workspace\SpringWorkSpace" -Dstyle.color=always -U archetype:generate
+2023-09-07 16:56:20,538 [Worker-27: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\java Workspace\SpringWorkSpace\viewDataProject\pom.xml
+2023-09-07 16:56:20,947 [Worker-27: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.VCD:viewDataProject:0.0.1-SNAPSHOT @ D:\java Workspace\SpringWorkSpace\viewDataProject\pom.xml.
+2023-09-07 16:56:22,677 [Worker-27: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /viewDataProject/src/main/java
+2023-09-07 16:56:22,679 [Worker-27: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /viewDataProject/src/test/java
+2023-09-07 16:56:23,991 [Worker-27: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2023-09-07 16:56:25,171 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 16:56:25,172 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\viewDataProject\src\main\resources
+2023-09-07 16:56:25,181 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 16:56:25,181 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\viewDataProject\src\test\resources
+2023-09-07 17:01:26,293 [Worker-32: Launching mavenrun-5ad21fb9-10a2-4788-8634-28abd12773bb] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\DELL\AppData\Local\Temp\m2e-archetypeGenerator991659448243080029":
+2023-09-07 17:01:26,294 [Worker-32: Launching mavenrun-5ad21fb9-10a2-4788-8634-28abd12773bb] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.4 -DgroupId=com.jsp -DartifactId=smallProject -Dversion=0.0.1-SNAPSHOT -Dpackage=com.smallProject -DoutputDirectory="D:\java Workspace\SpringWorkSpace" -Dstyle.color=always -U archetype:generate
+2023-09-07 17:02:27,247 [Worker-34: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\java Workspace\SpringWorkSpace\smallProject\pom.xml
+2023-09-07 17:02:27,724 [Worker-34: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.jsp:smallProject:0.0.1-SNAPSHOT @ D:\java Workspace\SpringWorkSpace\smallProject\pom.xml.
+2023-09-07 17:02:27,969 [Worker-34: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /smallProject/src/main/java
+2023-09-07 17:02:27,970 [Worker-34: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /smallProject/src/test/java
+2023-09-07 17:02:29,020 [Worker-34: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2023-09-07 17:02:29,636 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:02:29,637 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\smallProject\src\main\resources
+2023-09-07 17:02:29,644 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:02:29,644 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\smallProject\src\test\resources
+2023-09-07 17:02:30,225 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:02:30,226 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\smallProject\src\main\resources
+2023-09-07 17:02:30,232 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:02:30,232 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\smallProject\src\test\resources
+2023-09-07 17:07:25,387 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:07:25,388 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:07:25,397 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:07:25,398 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:07:53,597 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-09-07 17:07:53,776 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.VCD:miniProject:0.0.1-SNAPSHOT @ D:\java Workspace\SpringWorkSpace\miniProject\pom.xml.
+2023-09-07 17:07:55,183 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /miniProject/src/main/java
+2023-09-07 17:07:55,217 [Worker-40: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /miniProject/src/test/java
+2023-09-07 17:07:56,544 [Worker-40: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for miniProject
+2023-09-07 17:07:56,778 [Worker-40: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 1.00 sec 
+2023-09-07 17:07:56,975 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:07:56,975 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:07:56,980 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:07:56,980 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:07:56,981 [Worker-46: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of miniProject
+2023-09-07 17:07:56,981 [Worker-46: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for miniProject
+2023-09-07 17:10:56,905 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:10:56,906 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:10:56,912 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:10:56,913 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:11:35,792 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:11:35,792 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:11:35,801 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:11:35,802 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:20:24,316 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:20:24,316 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:20:24,323 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:20:24,324 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:21:55,326 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:21:55,327 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:21:55,372 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:21:55,373 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:23:55,160 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:23:55,160 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:23:55,166 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:23:55,167 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:24:53,649 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:24:53,649 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:24:53,656 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:24:53,656 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:25:48,515 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:25:48,516 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:25:48,521 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:25:48,521 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:26:44,812 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:26:44,812 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:26:44,818 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:26:44,818 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:27:21,079 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:27:21,079 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:27:21,097 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:27:21,097 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:27:33,929 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:27:33,929 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:27:33,937 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:27:33,937 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:27:57,315 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:27:57,316 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:27:57,323 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:27:57,323 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:28:09,578 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:28:09,578 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:28:09,599 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:28:09,599 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:28:23,893 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:28:23,894 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:28:23,897 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:28:23,898 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:28:55,636 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:28:55,636 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:28:55,644 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:28:55,645 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:30:14,350 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:30:14,350 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:30:14,360 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:30:14,361 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:30:20,137 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:30:20,138 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:30:20,150 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:30:20,151 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:30:35,441 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:30:35,441 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:30:35,446 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:30:35,447 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:32:24,264 [Worker-55: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-09-07 17:32:28,112 [Worker-55: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.VCD:miniProject:0.0.1-SNAPSHOT @ D:\java Workspace\SpringWorkSpace\miniProject\pom.xml.
+2023-09-07 17:32:31,383 [Worker-55: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /miniProject/src/main/java
+2023-09-07 17:32:31,384 [Worker-55: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /miniProject/src/test/java
+2023-09-07 17:32:32,191 [Worker-55: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for miniProject
+2023-09-07 17:32:32,318 [Worker-55: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 6.00 sec, update config takes 0.00 sec 
+2023-09-07 17:32:32,571 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:32:32,572 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:32:32,579 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:32:32,579 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:32:32,580 [Worker-55: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of miniProject
+2023-09-07 17:32:32,580 [Worker-55: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for miniProject
+2023-09-07 17:37:27,238 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:37:27,239 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:37:27,246 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:37:27,247 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:37:28,112 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:37:28,113 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:37:28,119 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:37:28,119 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:38:01,042 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:38:01,042 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:38:01,047 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:38:01,048 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:43:51,342 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:43:51,343 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:43:51,348 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:43:51,348 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:44:44,534 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:44:44,534 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:44:44,539 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:44:44,540 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:44:56,185 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:44:56,186 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:44:56,191 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:44:56,191 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:45:27,367 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:45:27,368 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:45:27,377 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:45:27,377 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:47:07,802 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:47:07,803 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:47:07,807 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:47:07,807 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:47:22,737 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:47:22,737 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:47:22,743 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:47:22,743 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:49:19,961 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:49:19,962 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:49:19,968 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:49:19,969 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:49:40,890 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:49:40,891 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:49:40,894 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:49:40,895 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:50:35,935 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:50:35,935 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:50:35,942 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:50:35,943 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:51:27,279 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:51:27,280 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:51:27,286 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:51:27,287 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:55:20,277 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:55:20,277 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:55:20,282 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:55:20,282 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:57:23,626 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:57:23,626 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:57:23,632 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:57:23,633 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:57:59,156 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:57:59,157 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:57:59,188 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:57:59,189 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 17:58:34,257 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:58:34,258 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 17:58:34,263 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 17:58:34,263 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 18:01:47,196 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:01:47,197 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 18:01:47,206 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:01:47,206 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 18:03:47,335 [Worker-71: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.VCD:miniProject:0.0.1-SNAPSHOT @ D:\java Workspace\SpringWorkSpace\miniProject\pom.xml.
+2023-09-07 18:03:52,088 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:03:52,088 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 18:03:52,093 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:03:52,093 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 18:03:52,093 [Worker-71: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of miniProject
+2023-09-07 18:03:52,093 [Worker-71: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for miniProject
+2023-09-07 18:07:13,614 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:07:13,615 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\SpringMvc\src\main\resources
+2023-09-07 18:07:13,619 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:07:13,620 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\SpringMvc\src\test\resources
+2023-09-07 18:07:29,634 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:07:29,634 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\SpringMvc\src\main\resources
+2023-09-07 18:07:29,639 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:07:29,639 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\SpringMvc\src\test\resources
+2023-09-07 18:07:39,412 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:07:39,412 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 18:07:39,415 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:07:39,416 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 18:12:17,054 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:12:17,055 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\SpringMvc\src\main\resources
+2023-09-07 18:12:17,059 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:12:17,059 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\SpringMvc\src\test\resources
+2023-09-07 18:12:30,095 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:12:30,095 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\SpringMvc\src\main\resources
+2023-09-07 18:12:30,101 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:12:30,101 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\SpringMvc\src\test\resources
+2023-09-07 18:32:20,954 [Worker-90: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.VCD:miniProject:0.0.1-SNAPSHOT @ D:\java Workspace\SpringWorkSpace\miniProject\pom.xml.
+2023-09-07 18:32:21,465 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:32:21,465 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 18:32:21,471 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:32:21,471 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 18:32:21,471 [Worker-90: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of miniProject
+2023-09-07 18:32:21,472 [Worker-90: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for miniProject
+2023-09-07 18:33:35,126 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:33:35,127 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 18:33:35,134 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:33:35,135 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 18:42:48,493 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:42:48,493 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 18:42:48,497 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:42:48,498 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 18:43:29,334 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:43:29,334 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 18:43:29,337 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:43:29,338 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 18:57:44,974 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:57:44,974 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 18:57:44,977 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 18:57:44,977 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 19:00:21,803 [Worker-105: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.VCD:miniProject:0.0.1-SNAPSHOT @ D:\java Workspace\SpringWorkSpace\miniProject\pom.xml.
+2023-09-07 19:00:25,488 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 19:00:25,488 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 19:00:25,492 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 19:00:25,493 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources
+2023-09-07 19:00:25,493 [Worker-105: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of miniProject
+2023-09-07 19:00:25,493 [Worker-105: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for miniProject
+2023-09-07 19:03:57,800 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 19:03:57,800 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\main\resources
+2023-09-07 19:03:57,805 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-09-07 19:03:57,805 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java Workspace\SpringWorkSpace\miniProject\src\test\resources

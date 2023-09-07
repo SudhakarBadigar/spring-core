@@ -14,6 +14,8 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\java Workspace\SpringWorkSpace"/>
+			<item value="D:\java Workspace\SpringWorkSpace\SpringMvc"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -37,22 +39,18 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.SpringMvc"/>
-			<item value="com.HibernateTemplate.SpringOrm"/>
-			<item value="com.JdbcTemplate.springJdbc"/>
-			<item value="com.spring.SpEL"/>
+			<item value="com.smallProject"/>
+			<item value="com.VCD.viewDataProject"/>
+			<item value="com.VCD.miniProject"/>
 		</list>
 		<list key="groupId">
-			<item value="com.SpringMvc"/>
-			<item value="com.HibernateTemplate"/>
-			<item value="com.JdbcTemplate"/>
-			<item value="com.spring"/>
+			<item value="com.jsp"/>
+			<item value="com.VCD"/>
 		</list>
 		<list key="artifactId">
-			<item value="SpringMvc"/>
-			<item value="SpringOrm"/>
-			<item value="springJdbc"/>
-			<item value="SpEL"/>
+			<item value="smallProject"/>
+			<item value="viewDataProject"/>
+			<item value="miniProject"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
