@@ -2,7 +2,8 @@ package com.miniProject;
 
 	import javax.servlet.http.HttpServletRequest;
 
-	import org.springframework.stereotype.Controller;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
 	import org.springframework.ui.Model;
 	import org.springframework.web.bind.annotation.ModelAttribute;
 	import org.springframework.web.bind.annotation.RequestMapping;
@@ -10,12 +11,16 @@ package com.miniProject;
 	import org.springframework.web.bind.annotation.RequestParam;
 
 import com.model.User;
+import com.mvc.userDao.UserService;
 
 	
 
 	@Controller
 	public class ContactController {
 
+		@Autowired
+		private UserService userService;
+		
 		@ModelAttribute
 		public void commonData(Model model) {
 			model.addAttribute("Heading", "Provide your Details");
@@ -27,6 +32,7 @@ import com.model.User;
 		//using@modelattribute
 		@RequestMapping("/contact")
 		public String contact() {
+			System.out.println("project refreshed");
 			return "signup";
 		}
 		

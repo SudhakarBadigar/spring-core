@@ -15,7 +15,7 @@
 </div>
 
 <h1>Congrats Login is successfull..</h1>
-<h1>Congrats all your data has been recorded</h1>
+<h1>Congrats all your data has been stored in Database</h1>
 
 <!-- @modelAttribute 2nd way -->
 
