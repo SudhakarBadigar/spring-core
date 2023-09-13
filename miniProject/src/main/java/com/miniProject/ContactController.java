@@ -30,7 +30,7 @@ import com.mvc.userDao.UserService;
 		
 		
 		//using@modelattribute
-		@RequestMapping("/contact")
+		@RequestMapping("/win")
 		public String contact() {
 			System.out.println("project refreshed");
 			return "signup";
